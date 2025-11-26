@@ -44,16 +44,6 @@
   <img src="https://img.shields.io/badge/react-000000.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
 </div>
 
-## 📫 Contact 📫
-<div align="center">
-  <a href="mailto:his5423@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://velog.io/@his5423">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />
-  </a>
-</div>
-
 <!--
 **LSHgy/LSHgy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
