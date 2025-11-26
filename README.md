@@ -1,8 +1,14 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello+World!!)
+<div align="center">
+  
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello+World!!)
 
-[![Anurag's GitHub stats](https://github-readme-stats-sigma-amber-55.vercel.app/api?username=LSHgy)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+<div align="center">
+  
+  [![Anurag's GitHub stats](https://github-readme-stats-sigma-amber-55.vercel.app/api?username=LSHgy&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats-sigma-amber-55.vercel.app/api/top-langs/?username=LSHgy&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-sigma-amber-55.vercel.app/api/top-langs/?username=LSHgy)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 ## ✨ Tech Stack ✨
 <div align="center">
