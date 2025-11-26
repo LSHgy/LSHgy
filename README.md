@@ -1,45 +1,49 @@
 # Yiseul Han
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LSHgy&show_icons=true&theme=merko)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LSHgy&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LSHgy&layout=compact)
 
-## Programming Skills
-<p align='left'>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.Net-512BD4?style=flat-square&logo=.Net&logoColor=white"/>
-</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LSHgy&show_icons=true&theme=radical)
 
-## Program(IDE, Etc) Skills
-<p align='left'>
-  <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-square&logo=VisualStudio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=EclipseIDE&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notepad%2B%2B-90E59A?style=flat-square&logo=Notepad%2B%2B&logoColor=black"/>
-</p>
+## ✨ Tech Stack ✨
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
+</div>
+<div align="center">
+  <!-- <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/> -->
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</div>
 
-## Favorite Browser
-<p align='left'>
-  <img src="https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white"/>
-  <img src="https://img.shields.io/badge/InternetExplorer-0076D6?style=flat-square&logo=InternetExplorer&logoColor=white"/>
-</p>
+## 🛠 Tools 🛠
+<div align="center">
+  <img src="https://img.shields.io/badge/intellij-181717.svg?style=for-the-badge&logo=intellijidea&logoColor=#000000" />&nbsp
+  <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=EclipseIDE&logoColor=white"/>
+</div>
 
-## Using Cloud Services
-<p align='left'>
-  <img src="https://img.shields.io/badge/GoogleDrive-4285F4?style=flat-square&logo=GoogleDrive&logoColor=white"/>
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/gitlab-F3F3F3.svg?style=for-the-badge&logo=gitlab&logoColor=orange" />&nbsp
+</div>
 
-## Interest of brands
-<p align='left'>
-  <img src="https://img.shields.io/badge/Samsung-1428A0?style=flat-square&logo=Samsung&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Razer-00FF00?style=flat-square&logo=Razer&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Logitech-00B8FC?style=flat-square&logo=Logitech&logoColor=white"/>
-</p>
+## 📚 Studying 📚
+<div align="center">
+  <img src="https://img.shields.io/badge/react-000000.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
+</div>
 
-## My Operation Systems
-<p align='left'>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-</p>
+## 📫 Contact 📫
+<div align="center">
+  <a href="mailto:his5423@gmail.com">
+    <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://velog.io/@his5423">
+    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />
+  </a>
+</div>
