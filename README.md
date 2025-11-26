@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello+World!!)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LSHgy)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-sigma-amber-55.vercel.app/api?username=LSHgy)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LSHgy)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-amber-55.vercel.app/api/top-langs/?username=LSHgy)](https://github.com/anuraghazra/github-readme-stats)
 
 ## ✨ Tech Stack ✨
 <div align="center">
