@@ -1,13 +1,13 @@
 <div align="center">
-  
   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello+World!!)
-
 </div>
 <div align="center">
-  
-  [![Anurag's GitHub stats](https://github-readme-stats-sigma-amber-55.vercel.app/api?username=LSHgy&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats-sigma-amber-55.vercel.app/api/top-langs/?username=LSHgy&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats-sigma-amber-55.vercel.app/api?username=LSHgy&show_icons=true&theme=gruvbox_light"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats-sigma-amber-55.vercel.app/api/top-langs/?username=Kimclick&layout=compact&theme=gruvbox_light"/>
+  </a>
 </div>
 
 ## ✨ Tech Stack ✨
