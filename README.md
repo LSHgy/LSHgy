@@ -1,5 +1,5 @@
 <div align="center">
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello+World!!)
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header&text=Hello+World!!"/>
 </div>
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
