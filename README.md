@@ -6,7 +6,7 @@
     <img src="https://github-readme-stats-sigma-amber-55.vercel.app/api?username=LSHgy&show_icons=true&theme=gruvbox_light"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-sigma-amber-55.vercel.app/api/top-langs/?username=Kimclick&layout=compact&theme=gruvbox_light"/>
+    <img src="https://github-readme-stats-sigma-amber-55.vercel.app/api/top-langs/?username=LSHgy&layout=compact&theme=gruvbox_light"/>
   </a>
 </div>
 
