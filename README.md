@@ -41,6 +41,8 @@
 
 ## 📚 Studying 📚
 <div align="center">
+  <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/react-000000.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
 </div>
 
