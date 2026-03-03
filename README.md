@@ -39,6 +39,10 @@
   <img src="https://img.shields.io/badge/gitlab-F3F3F3.svg?style=for-the-badge&logo=gitlab&logoColor=orange" />&nbsp
 </div>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white"/>
+</div>
+
 ## 📚 Studying 📚
 <div align="center">
   <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />&nbsp
