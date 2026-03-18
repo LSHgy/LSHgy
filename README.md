@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header&text=Hello+World!!"/>
-</div>
+
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats-sigma-amber-55.vercel.app/api?username=LSHgy&show_icons=true&theme=gruvbox_light"/>
@@ -10,7 +8,7 @@
   </a>
 </div>
 
-## ✨ Tech Stack ✨
+## Tech Stack
 <div align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
@@ -26,7 +24,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </div>
 
-## 🛠 Tools 🛠
+## Tools
 <div align="center">
   <img src="https://img.shields.io/badge/intellij-181717.svg?style=for-the-badge&logo=intellijidea&logoColor=#000000" />&nbsp
   <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white"/>
@@ -43,24 +41,9 @@
   <img src="https://img.shields.io/badge/obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white"/>
 </div>
 
-## 📚 Studying 📚
+## Studying
 <div align="center">
   <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/react-000000.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
 </div>
-
-<!--
-**LSHgy/LSHgy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-- Hi there 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
